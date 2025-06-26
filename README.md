@@ -38,16 +38,7 @@
 - 💡 **To-Do App with MongoDB** – Learning backend with Node.js and Express
 - 🖼️ **Own-AI** – Trying AI image generation using OpenAI API (still learning!)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karankashyap2003&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankashyap2003&theme=radical" width="48%" />
-</p>
-
----
 
 ### 📫 Connect with Me
 
