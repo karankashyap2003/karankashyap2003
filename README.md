@@ -11,7 +11,7 @@
 
 - 🌱 I'm currently learning: **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
 - 🧠 Focused on improving: **JavaScript, React, APIs, Git**
-- 💼 Practicing by building: **Simple projects and clones**
+- 💼 Practicing by building: **full stack,projects,clones**
 - 📫 Reach me at: **karankashyap6180@gmail.com**
 - ✨ Goal: To become a confident full-stack developer and contribute to real-world projects
 
@@ -28,6 +28,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 
 ---
 
